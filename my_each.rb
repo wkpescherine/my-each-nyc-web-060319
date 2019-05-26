@@ -1,3 +1,6 @@
-def my_each # put argument(s) here
+def my_each(collection) # put argument(s) here
   # code here
+  collection.collect do | number|
+    
+  end
 end
